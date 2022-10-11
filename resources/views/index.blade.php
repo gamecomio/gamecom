@@ -4,12 +4,12 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Gamecom - Find Games And Communities For You!</title>
+        <title>Gamecom - Discover Games And Communities For You!</title>
 
         <meta property="og:image" content="/images/gamecom-filled.png">
         <meta name="twitter:card" content="summary_large_image">
         <meta name="twitter:site" content="@modcommunity_">
-        <meta property="og:title" content="Find Games And Communities For You!">
+        <meta property="og:title" content="Discover Games And Communities For You!">
         <meta property="og:type" content="article">
         <meta property="og:url" content="https://gamecom.io/">
         <meta property="og:site_name" content="Gamecom">
@@ -53,13 +53,17 @@
                     </div>
                 </form>
             </div>
-            <div class="text-white text-center m-7">
-                <p>We are currently in development!</p>
+            <div class="text-white m-7">
+                <h3 class="text-3xl font-bold mb-4">Welcome!</h3>
+                <p>We are currently in development! The source code of this website may be found <a href="https://github.com/gamemann/gamecom" target="_blank">here</a>.</p>
+                <br>
+                <p>This project is powered by <a class="text-red-400" href="https://ModdingCommunity.com/" target="_blank">The Modding Community</a>!</p>
+
             </div>
             <footer class="p-4 bg-white rounded-lg shadow md:flex md:items-center md:justify-between md:p-6 dark:bg-gray-800 m-7">
-                <span class="text-sm text-gray-500 sm:text-center dark:text-gray-400">© 2022 <a href="https://gamecom.io/" class="hover:underline">Gamecom</a>. All Rights Reserved.
+                <span class="text-sm text-gray-500 sm:text-center dark:text-gray-300">© 2022 <a href="https://gamecom.io/" class="hover:underline">Gamecom</a>. All Rights Reserved.
                 </span>
-                <ul class="flex flex-wrap items-center mt-3 text-sm text-gray-500 dark:text-gray-400 sm:mt-0">
+                <ul class="flex flex-wrap items-center mt-3 text-sm text-gray-500 dark:text-gray-300 sm:mt-0">
                     <li>
                         <a href="/" class="mr-4 hover:underline md:mr-6 ">Home</a>
                     </li>
