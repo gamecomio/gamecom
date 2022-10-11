@@ -18,9 +18,9 @@
         <meta name="keywords" content="game, games, gaming, community, communities, best, servers, directory, discover, discovery, modding, modcommunity">
         <meta property="og:description" content="Find games and communities for you to join and participate in! All data received from The Modding Community and provide everything on a simple and user-friendly website!">
 
-        <link rel="canonical" href="https://moddingcommunity.com/forums/">
-        <link rel="manifest" href="https://moddingcommunity.com/forums/manifest.webmanifest/">
-        <meta name="msapplication-config" content="https://moddingcommunity.com/forums/browserconfig.xml/">
+        <link rel="canonical" href="https://gamecom.io/">
+        <!-- <link rel="manifest" href="https://moddingcommunity.com/forums/manifest.webmanifest/">
+        <meta name="msapplication-config" content="https://moddingcommunity.com/forums/browserconfig.xml/">-->
         <meta name="msapplication-starturl" content="/">
         <meta name="application-name" content="Gamecom">
         <meta name="apple-mobile-web-app-title" content="Gamecom">
