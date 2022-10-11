@@ -5,6 +5,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
         <title>Gamecom - Discover Games And Communities For You!</title>
+        <link rel="icon" type="image/x-icon" href="/favicon.ico">
 
         <meta property="og:image" content="/images/gamecom-filled.png">
         <meta name="twitter:card" content="summary_large_image">
@@ -26,6 +27,7 @@
         <meta name="apple-mobile-web-app-title" content="Gamecom">
         <meta name="theme-color" content="#181a1b">
         <meta name="mobile-web-app-capable" content="yes">
+        <link rel="apple-touch-icon" href="/images/gamecom-icon.png">
         <meta name="apple-touch-fullscreen" content="yes">
         <meta name="apple-mobile-web-app-capable" content="yes">
 
@@ -54,7 +56,7 @@
                 </form>
             </div>
             <div class="text-white m-7">
-                <h3 class="text-3xl font-bold mb-4">Welcome!</h3>
+                <h1 class="text-3xl font-bold mb-4">Start Discovering!</h1>
                 <p>We are currently in development! The source code of this website may be found <a class="text-red-400" href="https://github.com/gamemann/gamecom" target="_blank">here</a>.</p>
                 <br>
                 <p>This project is powered by <a class="text-red-400" href="https://ModdingCommunity.com/" target="_blank">The Modding Community</a>!</p>
