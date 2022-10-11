@@ -6,7 +6,7 @@
 
         <title>Gamecom - Find Games And Communities For You!</title>
 
-        <meta property="og:image" content="">
+        <meta property="og:image" content="/images/gamecom-filled.png">
         <meta name="twitter:card" content="summary_large_image">
         <meta name="twitter:site" content="@modcommunity_">
         <meta property="og:title" content="Find Games And Communities For You!">
