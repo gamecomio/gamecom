@@ -55,7 +55,7 @@
             </div>
             <div class="text-white m-7">
                 <h3 class="text-3xl font-bold mb-4">Welcome!</h3>
-                <p>We are currently in development! The source code of this website may be found <a href="https://github.com/gamemann/gamecom" target="_blank">here</a>.</p>
+                <p>We are currently in development! The source code of this website may be found <a class="text-red-400" href="https://github.com/gamemann/gamecom" target="_blank">here</a>.</p>
                 <br>
                 <p>This project is powered by <a class="text-red-400" href="https://ModdingCommunity.com/" target="_blank">The Modding Community</a>!</p>
 
