@@ -15,9 +15,9 @@
         <meta property="og:url" content="https://gamecom.io/">
         <meta property="og:site_name" content="Gamecom">
         <meta property="og:locale" content="en_US">
-        <meta name="description" content="Find games and communities for you to join and participate in! All data received from The Modding Community and provide everything on a simple and user-friendly website!">
+        <meta name="description" content="Find games and communities for you to join and participate in! All data received from The Modding Community. We provide everything on a simple and user-friendly website!">
         <meta name="keywords" content="game, games, gaming, community, communities, best, servers, directory, discover, discovery, modding, modcommunity">
-        <meta property="og:description" content="Find games and communities for you to join and participate in! All data received from The Modding Community and provide everything on a simple and user-friendly website!">
+        <meta property="og:description" content="Find games and communities for you to join and participate in! All data received from The Modding Community. We provide everything on a simple and user-friendly website!">
 
         <link rel="canonical" href="https://gamecom.io/">
         <!-- <link rel="manifest" href="https://moddingcommunity.com/forums/manifest.webmanifest/">
